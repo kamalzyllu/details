@@ -1,14 +1,17 @@
 [
   {
-    "id": 1,
-    "description": "Electric Scooter",
-    "latitude": 52.529077,
-    "longitude": 13.416351,
+    "id":1,
+    "lat": "-37.3159",
+    "lng": "81.1496"
   },
   {
-    "id": 2,
-    "description": "Electric Scooter",
-    "latitude": 52.529103,
-    "longitude": 13.416255,
+    "id":2,
+    "lat": "-43.9509",
+    "lng": "-34.4618"
+  },
+  {
+    "id":3,
+   "lat": "-68.6102",
+   "lng": "-47.0653"
   }
 ]
